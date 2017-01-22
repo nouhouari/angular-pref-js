@@ -1,0 +1,25 @@
+{
+  "name": "my-pharma-pref-js",
+  "authors": [
+    "Nourreddine Houari <nourreddine.houari@sicpa.com>"
+  ],
+  "description": "Preference Javascript API",
+  "main": "service.js",
+  "keywords": [
+    "Preference",
+    "javascript"
+  ],
+  "license": "SICPA",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
