@@ -1,0 +1,30 @@
+{
+  "name": "my-pharma-pref-js",
+  "version": "0.0.1",
+  "description": "Javascript API services for Preferences microservice.",
+  "main": "service.js",
+  "dependencies": {
+    "gulp-uglify": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nouhouari/angular-pref-js.git"
+  },
+  "keywords": [
+    "preference",
+    "angular"
+  ],
+  "author": "houarinourredine@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nouhouari/angular-pref-js/issues"
+  },
+  "homepage": "https://github.com/nouhouari/angular-pref-js#readme"
+}
